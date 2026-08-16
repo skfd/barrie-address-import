@@ -1,0 +1,105 @@
+[city]
+slug = "barrie"
+name = "Barrie"
+# Ward polygons (10 wards) from the city's self-hosted server, point-tested
+# 2026-08-15 at 100.00% of snapshot-24 addresses (1 orphan). Barrie publishes
+# no neighbourhood/planning fabric: the AGOL org's only area layers are
+# census dissemination areas (243 unnamed DAUID polygons — statistical, not
+# operational), found by sweeping all 90 services; the Wards layer only
+# surfaces via the Hub search. WARD_NO is an integer, so tiles are named
+# "1".."10" — poor but honest; a name-template nicety is noted in the queue
+# file. CITY_BOUNDARY_2025 (AGOL org, 1 polygon) noted for
+# 10-boundary-clipping.md.
+neighbourhoods_url = "https://gispublic.barrie.ca/arcgis/rest/services/Open_Data/AdministrativeArea/MapServer/0/query?where=1%3D1&outFields=WARD_NO&outSR=4326&f=geojson"
+neighbourhood_name_field = "WARD_NO"
+
+[source]
+sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/barrie/barrie.db"
+
+# Per-city projection recipe (multi-city Tier 2), measured against snapshot 24
+# (2026-08-10, 63,341 active rows; ADDRESSID is a stable key).
+[source_fields]
+# SSTRNAME is the bare name component ("ALVA"); FULLADDR is "204 ALVA ST" —
+# number + typed street, no unit pollution found. Deriving street from full
+# (drop the leading number) is the survey's branch for this shape, but the
+# clean declaration is the one that avoids parsing: full works because
+# FULLADDR is exactly "number street-with-suffix". ALL-CAPS with abbreviated
+# suffixes (DR/ST/CRES/CRT/TERR...) — TODO §9 gates upload; CRT and TERR are
+# already in the expansion tables, and the suffix mix includes long forms
+# (LANE/TRAIL/WAY) too.
+street_from = "full"
+full_from = "full"
+# No municipality field (not amalgamated; separated city inside Simcoe
+# County — the Guelph/Wellington containment shape, so county datasets
+# overlap by rectangle only). No ward field per address either; the ward
+# fabric lives in the tile layer above.
+# UNITNUMBER on 9,179 rows (14.5%). Declaring it obliges [units] below.
+unit = "unit"
+# STATUS: Current 59,923 / Pending 3,369 / Temporary 49 — the first city
+# whose source publishes future addresses. Declaring it obliges the [status]
+# policy below (engine capability added 2026-08-15, TODO §11).
+status = "props:STATUS"
+
+# 09-units.md option 2, same as Hamilton/Guelph/Quinte West/Cornwall.
+# Measured 2026-08-15 on snapshot 24: 63,341 rows -> 53,791 civic groups on
+# (number, street); 2,557 stacked, 1 without a unit-less representative,
+# 371 with >1 unit-less rows.
+[units]
+policy = "collapse-to-civic"
+
+# Only Current rows are importable reality. Pending is the city's future
+# pipeline (3,369 rows — subdivisions not yet built); Temporary (49) are
+# transient assignments. Excluding both keeps them out of candidates, the
+# MISSING count, and maintenance new/retired deltas.
+[status]
+active_values = ["Current"]
+
+[run_defaults]
+# Dense downtown/north cell (1,904 rows) for first test runs.
+bbox = [44.388, -79.692, 44.400, -79.680]
+overpass_url = "https://overpass-api.de/api/interpreter"
+
+[osm]
+source = "local"
+# Same Ontario PBF as every city in the portfolio.
+pbf_url = "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
+# Source-data extent (63,341 rows measured 2026-08-15: lat 44.29599..44.44753,
+# lon -79.75085..-79.58783) plus a small margin. Everything around the
+# rectangle is Simcoe County or Lake Simcoe; see 10-boundary-clipping.md.
+city_bbox = [44.28, -79.77, 44.46, -79.57]
+extract_dir = "data/osm"
+
+[conflation]
+match_radius_m = 100
+match_near_m = 15
+
+[checks]
+match_far = true
+# suffix_range deliberately absent: no lo_num/hi_num in this source
+# (StreetNoUpper is an empty schema slot — see the tracker TOML's note).
+city_duplicate = true
+missing_sample = true
+nearby_street_mismatch = true
+
+[check_params.city_duplicate]
+radius_m = 3.0
+
+[check_params.missing_sample]
+every_nth = 50
+
+[check_params.nearby_street_mismatch]
+radius_m = 20.0
+
+[check_params.match_number_drift]
+slack_m = 2.0
+
+[upload]
+changesets_per_minute = 1
+changeset_comment_template = "{city} Open Data address import, run={run_name}"
+
+[export]
+attribution = "City of Barrie Open Data"
+# Entry-state probe of 2026-08-15 pending at write time (see README). No
+# proposal exists; write and publish one per the OSM Import Guidelines
+# BEFORE any production upload, and mind TODO §9 (title-casing) first.
+import_plan = ""
