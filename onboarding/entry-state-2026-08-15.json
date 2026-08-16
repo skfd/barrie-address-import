@@ -1,0 +1,1816 @@
+{
+  "city": "barrie",
+  "bbox": [
+    44.29599,
+    -79.75085,
+    44.44753,
+    -79.58783
+  ],
+  "per_box": {
+    "downtown": {
+      "elements": 658,
+      "users": [
+        [
+          "Matthew Darwin",
+          368
+        ],
+        [
+          "Exasecond",
+          208
+        ],
+        [
+          "raptureboi",
+          34
+        ],
+        [
+          "b-jazz-bot",
+          10
+        ],
+        [
+          "Mark305",
+          6
+        ],
+        [
+          "andrewpmk",
+          3
+        ],
+        [
+          "Habu_Boo",
+          3
+        ],
+        [
+          "DannyMcD",
+          3
+        ]
+      ],
+      "years": [
+        [
+          "2017",
+          1
+        ],
+        [
+          "2018",
+          365
+        ],
+        [
+          "2019",
+          12
+        ],
+        [
+          "2020",
+          55
+        ],
+        [
+          "2021",
+          160
+        ],
+        [
+          "2022",
+          5
+        ],
+        [
+          "2023",
+          46
+        ],
+        [
+          "2024",
+          2
+        ],
+        [
+          "2025",
+          5
+        ],
+        [
+          "2026",
+          7
+        ]
+      ]
+    },
+    "south-end": {
+      "elements": 144,
+      "users": [
+        [
+          "Matthew Darwin",
+          108
+        ],
+        [
+          "raptureboi",
+          31
+        ],
+        [
+          "Mojgan Jadidi",
+          4
+        ],
+        [
+          "Eric Geiler - A&B Courier",
+          1
+        ]
+      ],
+      "years": [
+        [
+          "2016",
+          4
+        ],
+        [
+          "2018",
+          108
+        ],
+        [
+          "2024",
+          32
+        ]
+      ]
+    },
+    "east-shore": {
+      "elements": 167,
+      "users": [
+        [
+          "raptureboi",
+          71
+        ],
+        [
+          "Matthew Darwin",
+          70
+        ],
+        [
+          "HitFilmMan",
+          25
+        ],
+        [
+          "xynorath",
+          1
+        ]
+      ],
+      "years": [
+        [
+          "2018",
+          70
+        ],
+        [
+          "2021",
+          25
+        ],
+        [
+          "2024",
+          71
+        ],
+        [
+          "2026",
+          1
+        ]
+      ]
+    }
+  },
+  "users": [
+    [
+      "Matthew Darwin",
+      546
+    ],
+    [
+      "Exasecond",
+      208
+    ],
+    [
+      "raptureboi",
+      136
+    ],
+    [
+      "HitFilmMan",
+      26
+    ],
+    [
+      "b-jazz-bot",
+      10
+    ],
+    [
+      "Mark305",
+      6
+    ],
+    [
+      "Mojgan Jadidi",
+      4
+    ],
+    [
+      "andrewpmk",
+      3
+    ],
+    [
+      "Habu_Boo",
+      3
+    ],
+    [
+      "DannyMcD",
+      3
+    ],
+    [
+      "PCarew_EG",
+      2
+    ],
+    [
+      "lovelyfurball88",
+      2
+    ],
+    [
+      "FreshlyTweezed",
+      2
+    ],
+    [
+      "ajashton",
+      1
+    ],
+    [
+      "jamesmitchell4",
+      1
+    ],
+    [
+      "wheelmap_visitor",
+      1
+    ],
+    [
+      "woodpeck",
+      1
+    ],
+    [
+      "Rps333",
+      1
+    ],
+    [
+      "PinRPG",
+      1
+    ],
+    [
+      "Rhodez",
+      1
+    ],
+    [
+      "confusedbuffalo-bot",
+      1
+    ],
+    [
+      "JayXZ11",
+      1
+    ],
+    [
+      "Stuart_L",
+      1
+    ],
+    [
+      "bphennessy",
+      1
+    ],
+    [
+      "mtmail",
+      1
+    ],
+    [
+      "TasteofBarrie",
+      1
+    ],
+    [
+      "g37song",
+      1
+    ],
+    [
+      "andrepoiy",
+      1
+    ],
+    [
+      "useless2764",
+      1
+    ],
+    [
+      "Eric Geiler - A&B Courier",
+      1
+    ],
+    [
+      "xynorath",
+      1
+    ]
+  ],
+  "years": [
+    [
+      "2016",
+      4
+    ],
+    [
+      "2017",
+      1
+    ],
+    [
+      "2018",
+      543
+    ],
+    [
+      "2019",
+      12
+    ],
+    [
+      "2020",
+      55
+    ],
+    [
+      "2021",
+      185
+    ],
+    [
+      "2022",
+      5
+    ],
+    [
+      "2023",
+      46
+    ],
+    [
+      "2024",
+      105
+    ],
+    [
+      "2025",
+      5
+    ],
+    [
+      "2026",
+      8
+    ]
+  ],
+  "kinds": {
+    "node": 715,
+    "way": 254
+  },
+  "changesets": [
+    {
+      "id": 56454029,
+      "user": "Matthew Darwin",
+      "created_at": "2018-02-18T03:42:38Z",
+      "changes": 9750,
+      "tags": {
+        "comment": "City of Barrie => Barrie",
+        "created_by": "JOSM/1.5 (13367 en)",
+        "source": "Discussion on talk-ca; NRCan"
+      },
+      "sampled_elements": 449
+    },
+    {
+      "id": 56454258,
+      "user": "Matthew Darwin",
+      "created_at": "2018-02-18T04:13:06Z",
+      "changes": 1566,
+      "tags": {
+        "comment": "City of Barrie => Barrie",
+        "created_by": "JOSM/1.5 (13367 en)",
+        "source": "Discussion on talk-ca; NRCan"
+      },
+      "sampled_elements": 92
+    },
+    {
+      "id": 105139617,
+      "user": "Exasecond",
+      "created_at": "2021-05-22T16:23:28Z",
+      "changes": 122,
+      "tags": {
+        "comment": "Add housenumbers",
+        "created_by": "StreetComplete 31.3",
+        "locale": "en-CA",
+        "source": "survey",
+        "StreetComplete:quest_type": "AddHousenumber"
+      },
+      "sampled_elements": 49
+    },
+    {
+      "id": 106777824,
+      "user": "Exasecond",
+      "created_at": "2021-06-22T12:47:09Z",
+      "changes": 71,
+      "tags": {
+        "changesets_count": "872",
+        "comment": "Addresses",
+        "created_by": "iD 2.19.6",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Bing aerial imagery",
+        "locale": "en"
+      },
+      "sampled_elements": 46
+    },
+    {
+      "id": 89109380,
+      "user": "Exasecond",
+      "created_at": "2020-08-07T21:14:31Z",
+      "changes": 366,
+      "tags": {
+        "changesets_count": "440",
+        "comment": "North end of Barrie house street names, city, & province",
+        "created_by": "iD 2.18.4",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Bing",
+        "locale": "en-US"
+      },
+      "sampled_elements": 39
+    },
+    {
+      "id": 160640575,
+      "user": "raptureboi",
+      "created_at": "2024-12-26T14:45:24Z",
+      "changes": 638,
+      "tags": {
+        "changesets_count": "1589",
+        "comment": "adding sidewalks to neighbourhoods",
+        "created_by": "iD 2.30.4",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Esri World Imagery (Clarity) Beta",
+        "locale": "en-GB",
+        "resolved:crossing_ways:highway-highway": "1",
+        "resolved:disconnected_way:highway": "1",
+        "warnings:disconnected_way:highway": "1",
+        "warnings:outdated_tags:incomplete_tags": "1"
+      },
+      "sampled_elements": 31
+    },
+    {
+      "id": 108574869,
+      "user": "HitFilmMan",
+      "created_at": "2021-07-25T17:37:04Z",
+      "changes": 870,
+      "tags": {
+        "comment": "Interpolating addresses from previously-removed interpolation lines, cleaning up some artifacts from Geobase imports such as split ways at every intersection",
+        "created_by": "JOSM/1.5 (18004 en)",
+        "source": "Esri; Bing"
+      },
+      "sampled_elements": 24
+    },
+    {
+      "id": 160653911,
+      "user": "raptureboi",
+      "created_at": "2024-12-26T21:16:37Z",
+      "changes": 357,
+      "tags": {
+        "changesets_count": "1591",
+        "comment": "adding sidewalks to neighbourhoods",
+        "created_by": "iD 2.30.4",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Esri World Imagery (Clarity) Beta",
+        "locale": "en-GB",
+        "warnings:disconnected_way:highway": "2"
+      },
+      "sampled_elements": 21
+    }
+  ],
+  "conventions": {
+    "sampled": 969,
+    "keys": [
+      [
+        "addr:housenumber",
+        969
+      ],
+      [
+        "addr:street",
+        968
+      ],
+      [
+        "addr:city",
+        918
+      ],
+      [
+        "source",
+        706
+      ],
+      [
+        "building",
+        243
+      ],
+      [
+        "addr:province",
+        214
+      ],
+      [
+        "addr:postcode",
+        91
+      ],
+      [
+        "building:levels",
+        57
+      ],
+      [
+        "name",
+        55
+      ],
+      [
+        "website",
+        38
+      ],
+      [
+        "phone",
+        37
+      ],
+      [
+        "roof:levels",
+        36
+      ],
+      [
+        "roof:shape",
+        36
+      ],
+      [
+        "amenity",
+        27
+      ],
+      [
+        "opening_hours",
+        25
+      ],
+      [
+        "shop",
+        13
+      ],
+      [
+        "email",
+        12
+      ],
+      [
+        "operator",
+        12
+      ],
+      [
+        "office",
+        11
+      ],
+      [
+        "air_conditioning",
+        9
+      ],
+      [
+        "addr:unit",
+        7
+      ],
+      [
+        "cuisine",
+        7
+      ],
+      [
+        "fax",
+        6
+      ],
+      [
+        "operator:wikidata",
+        6
+      ],
+      [
+        "wikidata",
+        5
+      ]
+    ],
+    "values": {
+      "addr:city": [
+        [
+          "Barrie",
+          915
+        ],
+        [
+          "Innisfil",
+          3
+        ]
+      ],
+      "addr:housenumber": [
+        [
+          "2",
+          30
+        ],
+        [
+          "1",
+          25
+        ],
+        [
+          "3",
+          15
+        ],
+        [
+          "30",
+          13
+        ],
+        [
+          "15",
+          12
+        ],
+        [
+          "18",
+          12
+        ],
+        [
+          "8",
+          11
+        ],
+        [
+          "19",
+          11
+        ]
+      ],
+      "addr:postcode": [
+        [
+          "L4M 2C7",
+          15
+        ],
+        [
+          "L4M 3L5",
+          14
+        ],
+        [
+          "L4M 2E1",
+          8
+        ],
+        [
+          "L4M 1A6",
+          7
+        ],
+        [
+          "L4M 2E2",
+          5
+        ],
+        [
+          "L4M 3N2",
+          4
+        ],
+        [
+          "L4M 3G9",
+          3
+        ],
+        [
+          "L4M 3R8",
+          3
+        ]
+      ],
+      "addr:province": [
+        [
+          "Ontario",
+          210
+        ],
+        [
+          "ON",
+          4
+        ]
+      ],
+      "addr:street": [
+        [
+          "Wellington Street East",
+          74
+        ],
+        [
+          "Gunn Street",
+          55
+        ],
+        [
+          "Dunlop Street East",
+          51
+        ],
+        [
+          "Peel Street",
+          50
+        ],
+        [
+          "Newton Street",
+          41
+        ],
+        [
+          "Mulcaster Street",
+          39
+        ],
+        [
+          "Succession Crescent",
+          38
+        ],
+        [
+          "Berczy Street",
+          37
+        ]
+      ],
+      "addr:unit": [
+        [
+          "102",
+          2
+        ],
+        [
+          "Suite 205",
+          1
+        ],
+        [
+          "#204",
+          1
+        ],
+        [
+          "310",
+          1
+        ],
+        [
+          "C3",
+          1
+        ],
+        [
+          "6",
+          1
+        ]
+      ],
+      "building": [
+        [
+          "detached",
+          139
+        ],
+        [
+          "house",
+          66
+        ],
+        [
+          "yes",
+          17
+        ],
+        [
+          "retail",
+          8
+        ],
+        [
+          "apartments",
+          4
+        ],
+        [
+          "commercial",
+          3
+        ],
+        [
+          "church",
+          2
+        ],
+        [
+          "school",
+          1
+        ]
+      ],
+      "source": [
+        [
+          "CanVec 6.0 - NRCan",
+          689
+        ],
+        [
+          "Bing",
+          8
+        ],
+        [
+          "StatCan 92-500-X",
+          8
+        ],
+        [
+          "survey;local knowledge",
+          1
+        ]
+      ]
+    },
+    "addr_combos": [
+      [
+        "addr:city+addr:housenumber+addr:street",
+        691
+      ],
+      [
+        "addr:city+addr:housenumber+addr:province+addr:street",
+        137
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:province+addr:street",
+        70
+      ],
+      [
+        "addr:housenumber+addr:street",
+        48
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:street",
+        13
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:province+addr:street+addr:unit",
+        6
+      ],
+      [
+        "addr:housenumber+addr:postcode+addr:street",
+        2
+      ],
+      [
+        "addr:city+addr:housenumber+addr:province+addr:street+addr:unit",
+        1
+      ]
+    ]
+  },
+  "wiki": {
+    "Canada:Ontario:Barrie": {
+      "exists": true,
+      "chars": 20,
+      "mentions_address": 0,
+      "mentions_import": 0,
+      "head": "#REDIRECT [[Barrie]]"
+    },
+    "Barrie": {
+      "exists": true,
+      "chars": 2349,
+      "mentions_address": 0,
+      "mentions_import": 0,
+      "head": "{{Template:Place\n| name         = Barrie\n| type         = City\n| area         = Canada\n| subarea      = Ontario\n| lat          = 44.382355\n| long         = -79.688802\n| zoom         = 11\n| image        = Image:Barrie.png\n| map          = yes\n| width        = \n| height       = \n| layer        = \n| latlon       = \n| sortkey      = \n| list         = \n| archive      = \n| forum        = \n| de.wikipedia"
+    }
+  },
+  "recent_changesets": [
+    {
+      "id": "187512203",
+      "user": "Thomasje",
+      "created_at": "2026-08-15T23:50:40Z",
+      "changes": 16,
+      "comment": "Dutch localizations timezones",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187449091",
+      "user": "Hensor",
+      "created_at": "2026-08-14T15:20:38Z",
+      "changes": 23,
+      "comment": "puse un edificio en alaska",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187439067",
+      "user": "rsitoni_Lyft",
+      "created_at": "2026-08-14T12:11:25Z",
+      "changes": 18,
+      "comment": "Added missing roads according to Esri World Imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187430289",
+      "user": "woodpeck",
+      "created_at": "2026-08-14T09:11:47Z",
+      "changes": 190,
+      "comment": "delete historic=battlefield added by Jobigutenburg, see https://www.openstreetmap.org/changeset/179566483",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187423545",
+      "user": "rollercoasting",
+      "created_at": "2026-08-14T06:23:23Z",
+      "changes": 16,
+      "comment": "Add comprehensive Japanese localization (name:ja, ja-Latn, ja-Kana, ja-Hira) and alt_names to major continent and ocean nodes",
+      "source": "standard geographic names; ALA-LC Romanization of Japanese",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420719",
+      "user": "grawat_Lyft",
+      "created_at": "2026-08-14T04:12:12Z",
+      "changes": 4,
+      "comment": "Added missing road according to Esri World Imagery (Clarity) Beta.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187417839",
+      "user": "Himk\u00e9",
+      "created_at": "2026-08-14T01:14:10Z",
+      "changes": 500,
+      "comment": "Reverted mass road type changes by 6totheworld",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187415302",
+      "user": "useless2764",
+      "created_at": "2026-08-13T22:55:41Z",
+      "changes": 1,
+      "comment": "na",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187414899",
+      "user": "useless2764",
+      "created_at": "2026-08-13T22:35:28Z",
+      "changes": 15,
+      "comment": "deleted stops that have been removed and updated stop naming",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187409990",
+      "user": "marvin3",
+      "created_at": "2026-08-13T19:54:58Z",
+      "changes": 12,
+      "comment": "Spelling of Output-Power corrected.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187402053",
+      "user": "tkotnala_lyft",
+      "created_at": "2026-08-13T16:51:16Z",
+      "changes": 13,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "streetlevel imagery;streetside",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187389068",
+      "user": "sarya_Lyft",
+      "created_at": "2026-08-13T12:50:39Z",
+      "changes": 25,
+      "comment": "Added missing roads according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187386474",
+      "user": "sarya_Lyft",
+      "created_at": "2026-08-13T11:58:56Z",
+      "changes": 22,
+      "comment": "Added missing roads according to \nEsri World Imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187378660",
+      "user": "Idahooligan-1",
+      "created_at": "2026-08-13T09:05:36Z",
+      "changes": 22,
+      "comment": "Created 3 benches, 3 unknown objects, and 5 other objects; Updated 4 shelters, 3 restaurants, and 4 other objects",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187373981",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-13T07:23:42Z",
+      "changes": 9,
+      "comment": "Added missing roads according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187371983",
+      "user": "tkotnala_lyft",
+      "created_at": "2026-08-13T06:30:14Z",
+      "changes": 17,
+      "comment": "Added missing roads according to Esri world imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187371565",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-13T06:16:54Z",
+      "changes": 3,
+      "comment": "Added turning circle according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187368941",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-13T04:10:05Z",
+      "changes": 5,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187341365",
+      "user": "API_SIS67_FME",
+      "created_at": "2026-08-12T13:40:00Z",
+      "changes": 3,
+      "comment": "Renseignement de l'adresse pr\u00e9cise sur le b\u00e2timent de la caserne",
+      "source": "SIS67",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187318790",
+      "user": "tkotnala_lyft",
+      "created_at": "2026-08-12T05:44:41Z",
+      "changes": 9,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "streetlevel imagery;streetside;mapillary;kartaview;mapilio;panoramax",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187311504",
+      "user": "billargo",
+      "created_at": "2026-08-11T22:55:11Z",
+      "changes": 1,
+      "comment": "added province",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187310661",
+      "user": "billargo",
+      "created_at": "2026-08-11T22:19:26Z",
+      "changes": 1,
+      "comment": "changed cuisines, hours and description",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187310590",
+      "user": "billargo",
+      "created_at": "2026-08-11T22:15:16Z",
+      "changes": 1,
+      "comment": "changed description",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187290932",
+      "user": "sbedwal_Lyft",
+      "created_at": "2026-08-11T14:56:25Z",
+      "changes": 4,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187288084",
+      "user": "Lkumar_lyft",
+      "created_at": "2026-08-11T14:04:28Z",
+      "changes": 16,
+      "comment": "Added missing roads according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187282487",
+      "user": "CjMalone",
+      "created_at": "2026-08-11T12:22:03Z",
+      "changes": 89,
+      "comment": "Add Mucho Burrito website",
+      "source": "Mucho Burrito website",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187277646",
+      "user": "Malaalaa",
+      "created_at": "2026-08-11T10:42:54Z",
+      "changes": 3,
+      "comment": "name:wal added",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187266230",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-11T06:43:45Z",
+      "changes": 2,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187255764",
+      "user": "siycles",
+      "created_at": "2026-08-10T21:53:54Z",
+      "changes": 61,
+      "comment": "CNR Penetang Subdivision",
+      "source": "local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187255334",
+      "user": "siycles",
+      "created_at": "2026-08-10T21:38:15Z",
+      "changes": 6,
+      "comment": "Fixed Barrie TS",
+      "source": "aerial imagery;streetlevel imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187255228",
+      "user": "siycles",
+      "created_at": "2026-08-10T21:35:01Z",
+      "changes": 29,
+      "comment": "Updated Barrie TS Layout",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187254254",
+      "user": "siycles",
+      "created_at": "2026-08-10T21:05:19Z",
+      "changes": 119,
+      "comment": "Created the Essa TS Layout for Transmission between 500kv -> 230kv",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187237063",
+      "user": "useless2764",
+      "created_at": "2026-08-10T14:53:03Z",
+      "changes": 5,
+      "comment": "stop name corrections",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187236044",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-10T14:35:42Z",
+      "changes": 13,
+      "comment": "Added missing roads according to the Lyft owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187234536",
+      "user": "Vi2727",
+      "created_at": "2026-08-10T14:07:49Z",
+      "changes": 13,
+      "comment": "Fixed \"privateq\" to private (USA)",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187219005",
+      "user": "user_5589",
+      "created_at": "2026-08-10T09:04:42Z",
+      "changes": 2,
+      "comment": "Fixed with Osmose",
+      "source": "Osmose",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187216106",
+      "user": "mueschel",
+      "created_at": "2026-08-10T08:03:26Z",
+      "changes": 33,
+      "comment": "remove 'way:creation' tags added by Pucciotrex30. No response to changeset comment",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187209584",
+      "user": "FreshlyTweezed",
+      "created_at": "2026-08-10T04:42:50Z",
+      "changes": 81,
+      "comment": "Ontario: Fix opening hours issues",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187208418",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-10T03:38:47Z",
+      "changes": 5,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187204993",
+      "user": "siycles",
+      "created_at": "2026-08-09T23:56:40Z",
+      "changes": 52,
+      "comment": "Updated Lines in York Region",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187202131",
+      "user": "siycles",
+      "created_at": "2026-08-09T21:34:26Z",
+      "changes": 13,
+      "comment": "Fixed Many Hydro One Lines",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187201846",
+      "user": "siycles",
+      "created_at": "2026-08-09T21:26:01Z",
+      "changes": 48,
+      "comment": "Updated lots of things in Southern Ontario to Hydro one Values. All High Voltage transmission is handled by Hydro One in Ontario",
+      "source": "local knowledge;streetlevel imagery;aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187200778",
+      "user": "siycles",
+      "created_at": "2026-08-09T20:55:26Z",
+      "changes": 1,
+      "comment": "Fixed wrong circuit amount on Transmission line from Essa TS -> Midhurst TS 230kv",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187200721",
+      "user": "siycles",
+      "created_at": "2026-08-09T20:53:46Z",
+      "changes": 28,
+      "comment": "Updated Transmission Voltages + Fixed circuit amounts and wire counts.",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187195643",
+      "user": "siycles",
+      "created_at": "2026-08-09T18:45:23Z",
+      "changes": 5,
+      "comment": "Updated Midhurst TS and Barrie TS",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187195318",
+      "user": "siycles",
+      "created_at": "2026-08-09T18:37:05Z",
+      "changes": 26,
+      "comment": "Fixed some tower issues and incorrect amount of cables on lines going into Essa TS",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187193760",
+      "user": "siycles",
+      "created_at": "2026-08-09T18:02:24Z",
+      "changes": 21,
+      "comment": "Removed the Old Barrie 115kv line that does not exist anymore.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187193476",
+      "user": "siycles",
+      "created_at": "2026-08-09T17:56:56Z",
+      "changes": 42,
+      "comment": "Added the new Barrie 230kv Hydro One Line from Essa TS to Barrie TS, Updated Barrie TS from 115kv -> 230kv",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187190791",
+      "user": "FreshlyTweezed",
+      "created_at": "2026-08-09T17:04:15Z",
+      "changes": 43,
+      "comment": "Ontario: Fix opening hours issues",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187161311",
+      "user": "FreshlyTweezed",
+      "created_at": "2026-08-09T05:06:07Z",
+      "changes": 200,
+      "comment": "Ontario: Fix opening hours issues",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187158029",
+      "user": "ZeLonewolf",
+      "created_at": "2026-08-09T00:47:21Z",
+      "changes": 86,
+      "comment": "Remove MSA and \u03bcSA boundary relations",
+      "source": "Community consensus to remove these objects from OSM as documented at https://community.openstreetmap.org/t/metropolitan-micropolitan-statistical-areas/146177",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187150047",
+      "user": "Hack-o-lantern",
+      "created_at": "2026-08-08T19:29:41Z",
+      "changes": 1,
+      "comment": "Changed cycleway to separate",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187149690",
+      "user": "Hack-o-lantern",
+      "created_at": "2026-08-08T19:18:29Z",
+      "changes": 136,
+      "comment": "Sidewalks as separate ways, cycle tracks",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187148464",
+      "user": "Hack-o-lantern",
+      "created_at": "2026-08-08T18:50:25Z",
+      "changes": 4,
+      "comment": "Added pedestrian crossing",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187148221",
+      "user": "Hack-o-lantern",
+      "created_at": "2026-08-08T18:45:33Z",
+      "changes": 5,
+      "comment": "Paved shoulders",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187099929",
+      "user": "bibi6",
+      "created_at": "2026-08-07T17:43:36Z",
+      "changes": 14,
+      "comment": "Remove/replace isolated deprecated tags (bridge=arch, hazard=bicycle)",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187099473",
+      "user": "RandomMapGuy",
+      "created_at": "2026-08-07T17:33:55Z",
+      "changes": 19,
+      "comment": "fixme tag corrected",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187098634",
+      "user": "bibi6",
+      "created_at": "2026-08-07T17:11:31Z",
+      "changes": 9,
+      "comment": "Remove/replace isolated deprecated tags (shop=lingerie, man_made=hot_water_tank)",
+      "source": "deprecated features",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187097338",
+      "user": "bibi6",
+      "created_at": "2026-08-07T16:48:06Z",
+      "changes": 35,
+      "comment": "Remove/replace isolated deprecated tags (shop=gallery) and add buildings",
+      "source": "deprecated features;Bing",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187063652",
+      "user": "DENelson83",
+      "created_at": "2026-08-07T03:15:13Z",
+      "changes": 70,
+      "comment": "Standardize tagging for FAA area control centers",
+      "source": "Wikipedia; FAA; City of Memphis",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187061456",
+      "user": "sarya_Lyft",
+      "created_at": "2026-08-07T00:57:50Z",
+      "changes": 12,
+      "comment": "Added missing roads according to Esri world imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187057911",
+      "user": "useless2764",
+      "created_at": "2026-08-06T21:45:23Z",
+      "changes": 87,
+      "comment": "minor cleanup",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187039721",
+      "user": "bibi6",
+      "created_at": "2026-08-06T15:04:44Z",
+      "changes": 26,
+      "comment": "Remove/repalce isolated deprecated tags (landuse=pond; natural=marsh)",
+      "source": "deprecated features",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187010572",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-06T04:58:04Z",
+      "changes": 8,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186983294",
+      "user": "CanuckGeographer",
+      "created_at": "2026-08-05T14:45:34Z",
+      "changes": 430,
+      "comment": "Corrected features and attributes of railways between Totenham and Collingwood, Ontario, Canada.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186936165",
+      "user": "Tuwewanzi",
+      "created_at": "2026-08-04T16:52:05Z",
+      "changes": 25,
+      "comment": "Dakota and Lakota Canadian Province and Territory Names from D\u00fazaha\u019e M\u00e1niwi\u019e writings (2007)",
+      "source": "\"Dakota Iapi Ehdakub\" Doris Pratt (D\u00fazaha\u019e M\u00e1ni Wi\u019e) 2007",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186913229",
+      "user": "Lkumar_lyft",
+      "created_at": "2026-08-04T09:36:10Z",
+      "changes": 20,
+      "comment": "Added missing roads according to Esri World Imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186897920",
+      "user": "CAM-Gerlach_Repair",
+      "created_at": "2026-08-04T01:08:18Z",
+      "changes": 29,
+      "comment": "Mass-remove SEO spam added by @misty870808 for service call POIs with malformed tags that are very unlikely to verifiably exist at the indicated locations, and are likely to be part of a lead generation scam",
+      "source": "Bing; Esri World Imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186877045",
+      "user": "useless2764",
+      "created_at": "2026-08-03T15:31:16Z",
+      "changes": 106,
+      "comment": "added street names and addresses to buildings",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186875742",
+      "user": "useless2764",
+      "created_at": "2026-08-03T15:05:11Z",
+      "changes": 133,
+      "comment": "added street names and addresses to buildings",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186860703",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-03T10:03:04Z",
+      "changes": 15,
+      "comment": "Added missing roads according to \nMapbox Satellite",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186860650",
+      "user": "mueschel",
+      "created_at": "2026-08-03T10:01:55Z",
+      "changes": 2,
+      "comment": "'payment:monyx'",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186852649",
+      "user": "sanjanasharma_lyft",
+      "created_at": "2026-08-03T07:07:08Z",
+      "changes": 9,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery and telemetry data",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186848445",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-03T05:08:59Z",
+      "changes": 4,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186838725",
+      "user": "wolfy1339",
+      "created_at": "2026-08-02T22:21:19Z",
+      "changes": 5,
+      "comment": "Invalid changing phone number format, and changing https to http",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186836665",
+      "user": "Saad chaoui",
+      "created_at": "2026-08-02T21:26:08Z",
+      "changes": 15,
+      "comment": "\u0625\u0636\u0627\u0641\u0629 \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0645\u0627\u0632\u064a\u063a\u064a\u0629 (name:ber)",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186824413",
+      "user": "PinRPG",
+      "created_at": "2026-08-02T17:22:33Z",
+      "changes": 1,
+      "comment": "Added cuisine tag for restaurant #maproulette mpr.lt/c/49015/t/245988259",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186817141",
+      "user": "shawn722",
+      "created_at": "2026-08-02T15:24:12Z",
+      "changes": 1,
+      "comment": "Hardcoded holiday hours tomorrow since it doesn\u2019t seem to be covered by `PH`",
+      "source": "knowledge, official website",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186815199",
+      "user": "Adam Ferreira",
+      "created_at": "2026-08-02T14:54:20Z",
+      "changes": 13,
+      "comment": "",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186796935",
+      "user": "CAM-Gerlach_Repair",
+      "created_at": "2026-08-02T08:31:03Z",
+      "changes": 1,
+      "comment": "Revert changeset 184620374 adding malformed and advertising SEO spam tags to POI \"Park Place Dental\"",
+      "source": "Bing; Esri World Imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186774462",
+      "user": "GridRecce",
+      "created_at": "2026-08-01T17:29:07Z",
+      "changes": 15,
+      "comment": "Specify surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186758796",
+      "user": "Davileci",
+      "created_at": "2026-08-01T11:47:35Z",
+      "changes": 721,
+      "comment": "Restore images from Wayback Machine",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186755431",
+      "user": "Acccount",
+      "created_at": "2026-08-01T10:23:52Z",
+      "changes": 580,
+      "comment": "all i can say is i hope the satellite imagery here is up-to-date enough",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186744960",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-01T05:28:02Z",
+      "changes": 3,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186742878",
+      "user": "Tuwewanzi",
+      "created_at": "2026-08-01T04:03:57Z",
+      "changes": 11,
+      "comment": "Dakota and Lakota names for European nations",
+      "source": "New Lakota Dictionary;Dakhod Iapi Wichoie Wowapi",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186742421",
+      "user": "Tuwewanzi",
+      "created_at": "2026-08-01T03:46:39Z",
+      "changes": 3,
+      "comment": "Dakota/Lakota names on US States",
+      "source": "New Lakota Dictionary;Dakhod Iapi Wichoie Wowapi",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186739226",
+      "user": "vueltaconicarus",
+      "created_at": "2026-08-01T01:42:54Z",
+      "changes": 3,
+      "comment": "Toronto, Gananoque: Updated some POIs relevant to vegetarians",
+      "source": "Local visit",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186734456",
+      "user": "remila",
+      "created_at": "2026-07-31T22:58:53Z",
+      "changes": 4,
+      "comment": "Survey if places still exist",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186646862",
+      "user": "sbedwal_Lyft",
+      "created_at": "2026-07-30T14:04:59Z",
+      "changes": 29,
+      "comment": "Added missing roads according to Mapbox satellite imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186635494",
+      "user": "tkotnala_lyft",
+      "created_at": "2026-07-30T10:24:56Z",
+      "changes": 6,
+      "comment": "Added missing roads according to Mapbox Satellite imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186627651",
+      "user": "sbedwal_Lyft",
+      "created_at": "2026-07-30T07:29:07Z",
+      "changes": 6,
+      "comment": "Added missing roads according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186627102",
+      "user": "alokchauhan_Lyft",
+      "created_at": "2026-07-30T07:13:17Z",
+      "changes": 12,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186623818",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-07-30T05:31:12Z",
+      "changes": 92,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "streetlevel imagery;streetside;mapillary",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186613993",
+      "user": "useless2764",
+      "created_at": "2026-07-29T22:14:10Z",
+      "changes": 2,
+      "comment": "building shape set to building instead of address",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186555940",
+      "user": "alokchauhan_Lyft",
+      "created_at": "2026-07-29T01:49:36Z",
+      "changes": 29,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186514830",
+      "user": "Adam Ferreira",
+      "created_at": "2026-07-28T11:54:48Z",
+      "changes": 14,
+      "comment": "",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186509946",
+      "user": "Abaluni_Lyft",
+      "created_at": "2026-07-28T10:15:04Z",
+      "changes": 6,
+      "comment": "Modified existing road geometry according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186499145",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-07-28T06:13:52Z",
+      "changes": 12,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186471381",
+      "user": "MacLondon",
+      "created_at": "2026-07-27T17:16:09Z",
+      "changes": 151,
+      "comment": "Improved PTv2 compliance",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "186436624",
+      "user": "Ma4G",
+      "created_at": "2026-07-27T05:51:47Z",
+      "changes": 30,
+      "comment": "Ontario: Fix opening hours issues",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    }
+  ]
+}

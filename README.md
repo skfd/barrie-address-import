@@ -21,8 +21,17 @@ Source data: City of Barrie address points via the sibling
 [`ontario-address-changes`](https://github.com/skfd/ontario-address-changes)
 tracker (`data/barrie/barrie.db`, 63,341 active rows / 53,791 civic addresses
 at snapshot 24, 2026-08-10). The 2026-08-12 portfolio survey measured the
-gap in the high-80s percent — a likely import target pending the entry-state
-probe.
+gap in the high-80s percent.
+
+Entry state probed 2026-08-15 (`onboarding/entry-state-2026-08-15.json`):
+**greenfield** — CanVec 6.0 NRCan seed (689 of 969 sampled), the 2018 peak is
+Matthew Darwin's `City of Barrie => Barrie` rename retag, and the rest is
+organic: `Exasecond` surveyed housenumbers in 2020–21, `HitFilmMan` cleaned
+interpolation lines in 2021, and `useless2764` was hand-adding building
+addresses as recently as 2026-08-03. No import tags, no import wiki content.
+An import target; courtesy contacts before the first changeset: Matthew
+Darwin, Exasecond, useless2764 (currently active). Convention:
+`addr:city=Barrie`, `addr:province=Ontario` (210 vs 4 `ON`).
 
 Two engine capabilities were built for this city on scaffold day:
 **lifecycle-status filtering** (Barrie publishes 3,369 `Pending` future
