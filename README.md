@@ -42,8 +42,8 @@ that would have included the housenumber; it now strips the number prefix by
 length, which survives Barrie's 18 dirty rows — "32PENNELL DR", the KIRKWOOD
 WAY number/full disagreements — all catalogued QA finds for the city).
 
-Other traits: ALL-CAPS abbreviated streets (upload gated on the title-casing
-TODO), 14.5% units (collapsed to civic), tiles subdivide the 10 ward
+Other traits: ALL-CAPS abbreviated streets (title-cased on export since
+2026-08-29, `[export] street_case`), 14.5% units (collapsed to civic), tiles subdivide the 10 ward
 polygons (100.00% point coverage; Barrie publishes no neighbourhood fabric —
 the only area layers are census dissemination areas). Barrie is a separated
 city inside Simcoe County (the Guelph/Wellington containment shape).

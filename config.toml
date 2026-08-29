@@ -24,7 +24,8 @@ sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/barrie/barrie.db"
 # (drop the leading number) is the survey's branch for this shape, but the
 # clean declaration is the one that avoids parsing: full works because
 # FULLADDR is exactly "number street-with-suffix". ALL-CAPS with abbreviated
-# suffixes (DR/ST/CRES/CRT/TERR...) — TODO §9 gates upload; CRT and TERR are
+# suffixes (DR/ST/CRES/CRT/TERR...) — title-cased on export since 2026-08-29
+# ([export] street_case), so this no longer gates anything; CRT and TERR are
 # already in the expansion tables, and the suffix mix includes long forms
 # (LANE/TRAIL/WAY) too.
 street_from = "full"
@@ -101,5 +102,13 @@ changeset_comment_template = "{city} Open Data address import, run={run_name}"
 attribution = "City of Barrie Open Data"
 # Entry-state probe of 2026-08-15 pending at write time (see README). No
 # proposal exists; write and publish one per the OSM Import Guidelines
-# BEFORE any production upload, and mind TODO §9 (title-casing) first.
+# BEFORE any production upload.
 import_plan = ""
+
+# The source shouts. Title-cased on the export path only, so street_raw keeps
+# the source spelling and conflation is untouched. Swept over all 6,430 distinct
+# street names 2026-08-29: no all-caps word survives the step.
+# The unit tail rides along on some rows ("GOODWIN DR UNIT 8" derives a street
+# of "GOODWIN DR UNIT 8", which then blocks the suffix expansion) — that is the
+# unit-in-full question, not a casing one.
+street_case = "title"
